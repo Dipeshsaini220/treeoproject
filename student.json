@@ -1,0 +1,15 @@
+{
+    "employeedata" : [
+        {
+            "id" : 1,
+            "name" : "dipesh",
+            "company name" : "pizone" 
+        },
+        {
+            "id" : 2,
+            "name" : "prachi",
+            "company name" : "trueworth" 
+        }
+    ]
+}
+
